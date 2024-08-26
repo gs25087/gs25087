@@ -1,6 +1,8 @@
 # Gintare Simutyte
 
 **Full-Stack Developer (Front-End Specialist)**
+Partner and Lead Developer at web3000.net
+
 
 📍 **Location:** Berlin, Germany  
 📧 **Email:** gintare.simutyte@gmail.com  
